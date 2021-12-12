@@ -31,7 +31,7 @@ print(d("DINA"))
 ~~~
 
 Dan ini hasil dari program tersebut.\
-![screenshot output](screenshot/1.png)
+![screenshot output](screenshot/ss1.png)
 
 
 Dibawah ini adalah code diatas di ubah menggunakan lambda.\
@@ -56,7 +56,7 @@ print(d("DINA"))
 
 
 Dan ini adalah code setelah menggunakan lambda dan hasil nya sama.\
-![screenshot output](screenshot/2.png)
+![screenshot output](screenshot/ss2.png)
 
 
 
