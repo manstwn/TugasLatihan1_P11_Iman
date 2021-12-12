@@ -6,7 +6,7 @@
 Berikut soal tugas dari modul Lab 6.\
 ![screenshot output](screenshot/soal.png)
 
-Berikut adalah code dari soal menggunakan def.\
+Berikut adalah code dari soal menggunakan def.
 ~~~
 
 import math
@@ -34,7 +34,7 @@ Dan ini hasil dari program tersebut.\
 ![screenshot output](screenshot/ss1.png)
 
 
-Dibawah ini adalah code diatas di ubah menggunakan lambda.\
+Dibawah ini adalah code diatas di ubah menggunakan lambda.
 ~~~
 
 import math
